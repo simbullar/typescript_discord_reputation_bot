@@ -1,2 +1,2 @@
-# typescript_discord_reputation_bot
+# Discord reputation bot
 Discord bot for reputation on typescript
